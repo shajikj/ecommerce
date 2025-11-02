@@ -20,6 +20,7 @@ class Admin extends CI_Controller
     {
         redirect('admin/products');
         redirect('admin/products');
+        redirect('admin/products');
     }
 
     public function products()
